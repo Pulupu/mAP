@@ -1,0 +1,7 @@
+metal_bottom 0.81 1247 223 1391 428
+metal_back 0.95 962 467 1122 572
+metal_side 0.86 682 123 878 281
+metal_side 0.65 727 160 914 352
+metal_side 0.65 982 226 1142 505
+metal_side 0.87 647 368 817 577
+metal_side 0.91 704 380 954 565

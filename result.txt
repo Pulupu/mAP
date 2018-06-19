@@ -1,0 +1,5 @@
+90.71%  metal_side AP
+92.86%  metal_top AP
+95.35%  metal_bottom AP
+92.91%  metal_back AP
+92.96%  mAP

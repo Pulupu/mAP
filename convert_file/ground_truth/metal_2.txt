@@ -1,0 +1,6 @@
+metal_top 691 166 796 466
+metal_top 834 174 1077 309
+metal_top 858 431 1107 577
+metal_side 647 369 853 574
+metal_side 1050 215 1202 488
+metal_side 1169 331 1342 580
